@@ -1,8 +1,8 @@
 <h2 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 <p align="center">
   <a href="https://discord.com/users/479949390950301696" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <!--<a href="https://open.spotify.com/user/ansmat2b21d0j7mwtsvv0swjn" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a> -->
-  <a href="https://github.com/Nonanti" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <!--<a href="https://open.spotify.com/user/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a> -->
+  <a href="https://github.com/Alperen-cpu" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <br />
 <h3 align="center">Languages & Tools/Platforms:<h3>
