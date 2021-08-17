@@ -8,11 +8,10 @@
 <h3 align="center">Languages & Tools/Platforms:<h3>
 <p align="center">
 <!--<img align="center" alt="Visual Studio 2019" width="30px" src="https://cdn.discordapp.com/attachments/797522399545262080/798175837315792906/favpng_microsoft-visual-studio-visual-studio-code-team-foundation-server-visual-studio-application-l.png" /> -->
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="Network" width="26px" src="https://gumrukdeposu.net/img/m/263-manufacturer_default_2x.jpg" />
 <img align="center" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="center" alt="RedTeam" width="35px" src="https://www.sakshamdixit.com/wp-content/uploads/2020/08/unnamed.png" />
 <img align="center" alt="GitHub" width="35px" src="https://cdn.discordapp.com/emojis/874022316361801849.png?v=1" />
-<!--<img align="center" alt="C#" width="35px" src="https://www.pinclipart.com/picdir/big/124-1248748_free-western-clip-art.png"> -->
 <img align="center" alt="Python" width="35px" src="https://cdn.discordapp.com/emojis/874017866586947634.png?v=1">
 </p>
 
