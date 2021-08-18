@@ -6,7 +6,7 @@
 <br />
 <h3 align="center">Languages & Tools<h3>
 <p align="center">
-<img align="center" alt="HTML5, CSS, PHP, MYSQL" width="35px" src="https://i.hizliresim.com/a9d692x.png"/>
+<img align="center" alt="HTML5, CSS, PHP, MYSQL" width="120px" src="https://i.hizliresim.com/a9d692x.png"/>
 <img align="center" alt="Python" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" />
 <img align="center" alt="Web Pentest" width="35px" src="https://pbs.twimg.com/profile_images/684304046975483904/i8NbiURh.jpg">
 </p>
