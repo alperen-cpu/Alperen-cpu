@@ -1,7 +1,7 @@
-<h2 align="center">Hello, I'm Alperen<img src="https://i.hizliresim.com/ddgfjx7.gif" width="30px"></h2>
+<h2 align="center">Hello, I'm Alperen<img src="https://i.hizliresim.com/ddgfjx7.gif" width="35px"></h2>
 <p align="center">
-  <a href="https://discord.com/users/479949390950301696" target"blank_"><img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png"></a>
-  <a href="https://github.com/Alperen-cpu" target"blank_"><img src="https://i.hizliresim.com/esnupqa.png"></a>
+  <a href="https://discord.com/users/479949390950301696" target"blank_"><img src="https://discord.com/assets/ff41b628a47ef3141164bfedb04fb220.png" width="65px"></a>
+  <a href="https://github.com/Alperen-cpu" target"blank_"><img src="https://i.hizliresim.com/esnupqa.png" width="65px"></a>
 </p>
 <br />
 <h3 align="center">Languages & Tools<h3>
