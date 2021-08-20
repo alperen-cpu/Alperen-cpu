@@ -11,6 +11,10 @@
 <img align="center" alt="Web Pentest" width="120px" src="https://pbs.twimg.com/profile_images/684304046975483904/i8NbiURh.jpg">
 </p>
 
+  <br />
+  
+  <script src="https://tryhackme.com/badge/100765"></script>
+  
 <br/>
 <h3 align="center">GitHub Statistics</h3>
 <p align="center">
