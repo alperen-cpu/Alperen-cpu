@@ -17,12 +17,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Outlook Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
+📫 [![Outlook Badge](https://img.shields.io/badge/-alperensah@outlook.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:alperensah@outlook.com)](alperensah@outlook.com)
+[![Instagram Badge](https://img.shields.io/badge/-researcher.py-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/researcher.py/)](https://www.instagram.com/researcher.py/)
 
-
-<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
-<h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
 Credit: [Alperen Sah](https://github.com/Alperen-cpu)
