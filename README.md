@@ -1,8 +1,7 @@
 <h2 align="center">Hello, I'm Alperen<img src="https://i.hizliresim.com/ddgfjx7.gif" width="45px"></h2>
 <p align="center">
   <a href="https://discord.com/users/479949390950301696" target"blank_"><img src="https://i.hizliresim.com/364o9s4.png" width="125px"></a>
-  <a href="https://github.com/Alperen-cpu" target"blank_"><img src="https://i.hizliresim.com/sksgek1.png" width="125px"></a>
-</p>
+ <script src="https://tryhackme.com/badge/100765"></script></p>
 <br />
 <h3 align="center">Languages & Tools<h3>
 <p align="center">
