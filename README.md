@@ -1,21 +1,31 @@
-<h2 align="center">Hello, I'm Alperen<img src="https://i.hizliresim.com/ddgfjx7.gif" width="45px"></h2>
-<p align="center">
-    <a href="https://discord.com/users/479949390950301696" target"blank_"><img
-            src="https://i.hizliresim.com/364o9s4.png" width="125px"></a>
-</p>
-<img src="https://tryhackme-badges.s3.amazonaws.com/lemurr.png" alt="TryHackMe"><br />
-<h3 align="center">Languages & Tools</h3>
-<p align="center">
-    <img align="center" alt="HTML5, CSS, PHP, MYSQL" width="150px" src="https://i.hizliresim.com/a9d692x.png" />
-    <img align="center" alt="Python" width="120px"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/1200px-Python_logo_and_wordmark.svg.png" />
-    <img align="center" alt="Web Pentest" width="120px" src="https://i.hizliresim.com/89hkxqz.png">
-</p>
+<h1 align="center">Hello There<img src="https://i.hizliresim.com/ddgfjx7.gif" width="30"> </h1>
+
+### :smiley_cat: I am a IT junior
+
+### so, curently this is my first try making my readme, hope you like it 😄
+### let's wander
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## By the way here are some of my statistics 🚀
+![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=Alperen-cpu&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alperen-cpu&theme=tokyonight" alt="mystreak"/>
+![Alperen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen-cpu&theme=tokyonight&layout=compact)
+
+🌱 I'm currently learning network, security in itsec.com.tr with
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+## Contact me : 
+📫 [![Outlook Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:asthiseta@gmail.com)](asthiseta@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-asthi_21_-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/asthi_21_/)](https://www.instagram.com/asthi_21_/)
 
 
-<br />
-<h3 align="center">GitHub Statistics</h3>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alperen-cpu&count_private=true&show_icons=true&theme=dark&hide_border=true"
-        width="%100" height="150px" alt="stats" />
-</p>
+<h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
+<h6 align="center">Made with ❤️ by Me (probably)</h6>
+
+------
+Credit: [Alperen Sah](https://github.com/Alperen-cpu)
+
+Last Edited on: 24/01/2022
+
