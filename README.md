@@ -3,8 +3,7 @@
     <a href="https://discord.com/users/479949390950301696" target"blank_"><img
             src="https://i.hizliresim.com/364o9s4.png" width="125px"></a>
 </p>
-<script src="https://tryhackme.com/badge/100765"></script>
-<br />
+<img src="https://tryhackme-badges.s3.amazonaws.com/lemurr.png" alt="TryHackMe"><br />
 <h3 align="center">Languages & Tools</h3>
 <p align="center">
     <img align="center" alt="HTML5, CSS, PHP, MYSQL" width="150px" src="https://i.hizliresim.com/a9d692x.png" />
