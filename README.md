@@ -14,7 +14,7 @@
 
 🌱 I'm currently learning network, security in # with
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## Contact me : 
 📫 [![Outlook Badge](https://img.shields.io/badge/-alperensah@outlook.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:alperensah@outlook.com)](alperensah@outlook.com)
