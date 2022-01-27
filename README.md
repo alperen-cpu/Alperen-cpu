@@ -10,7 +10,7 @@
 ## By the way here are some of my statistics 🚀
 ![Alperen Sah github stats](https://github-readme-stats.vercel.app/api?username=Alperen-cpu&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alperen-cpu&theme=tokyonight" alt="mystreak"/>
-![Alperen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen-cpu&theme=tokyonight&layout=compact)
+![Alperen's Top Langs](load)
 
 🌱 I'm currently learning network, security in # with
 
