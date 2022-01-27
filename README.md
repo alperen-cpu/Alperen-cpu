@@ -12,7 +12,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alperen-cpu&theme=tokyonight" alt="mystreak"/>
 ![Alperen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alperen-cpu&theme=tokyonight&layout=compact)
 
-🌱 I'm currently learning network, security in itsec.com.tr with
+🌱 I'm currently learning network, security in # with
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
