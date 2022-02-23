@@ -17,7 +17,7 @@
 
 ## Contact me : 
 📫 [![Outlook Badge](https://img.shields.io/badge/-alperensah@outlook.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:alperensah@outlook.com)](alperensah@outlook.com)
-[![Instagram Badge](https://img.shields.io/badge/-researcher.py-E4405F?style=flat-roundedrectangle&logo=instagram&logoColor=white&link=https://www.instagram.com/researcher.py/)](https://www.instagram.com/researcher.py/)
+
 
 
 ------
