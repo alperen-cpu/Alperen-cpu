@@ -40,7 +40,7 @@
 
 <h2>test</h2>
 <br />
-<a href="https://www.linkedin.com/in/alperen-sah"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="30" height="25"></a>
+<a href="https://www.linkedin.com/in/alperen-sah"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="30""></a>
 <a href="https://twitter.com/sh_alperen"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="twitter" width="30" height="25"></a>
 <!-- <a href=""><img src="" alt="" width="40" height="40"></a>
 <a href=""><img src="" alt="" width="40" height="40"></a> -->
