@@ -40,7 +40,7 @@
             src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="html5" width="40"
             height="40" /> </a> </a> <a href="https://www.python.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"
-            width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php"></a>
+            width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" alt="php"></a>
 </body>
 
 </html>
