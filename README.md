@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-
-<body>
 <p align="center">
 
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="200">
@@ -41,6 +30,4 @@
             height="40" /> </a> </a> <a href="https://www.python.org" target="_blank"> <img
             src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python"
             width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" alt="php"></a>
-</body>
 
-</html>
