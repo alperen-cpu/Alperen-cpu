@@ -36,9 +36,9 @@
 <a href="https://www.ssh.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="40" height="40" alt="ssh"></a><a href="https://www.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40" alt="apache"></a>
 <a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="Amazon Web Services"></a>
 
+<hr />
 
-
-<h2>test</h2>
+<h2>Social Media Account</h2>
 <br />
 <a href="https://www.linkedin.com/in/alperen-sah"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="25""></a>
 <a href="https://twitter.com/sh_alperen"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" alt="twitter" width="25"></a>
