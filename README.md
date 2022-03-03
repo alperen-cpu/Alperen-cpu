@@ -32,3 +32,6 @@
             src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"
             alt="bootstrap" width="40" height="40" /> </a>    </a> 
 
+<br />
+
+<a href="https://linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux, ubuntu, centos, debian, kali, mint" width="40" height="40"></a>
