@@ -1,27 +1,12 @@
-<h1 align="center">Hello There<img src="https://i.hizliresim.com/ddgfjx7.gif" width="30"> </h1>
+<!DOCTYPE html>
+<html lang="en">
 
-### :smiley_cat: I am a IT junior
+<head>
+    <meta charset="UTF-8">
+</head>
 
-### so, curently this is my first try making my readme, hope you like it 😄
-### let's wander
+<body style="text-align: center;font-family: 'Hubballi', cursive;">
+    <h1>In short-term care</h1>
+</body>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-## By the way here are some of my statistics 🚀
-![Alperen Sah github stats](https://github-readme-stats.vercel.app/api?username=Alperen-cpu&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Alperen-cpu&theme=tokyonight" alt="mystreak"/>
-![Alperen's Top Langs]<p>updating</p>
-
-🌱 I'm currently learning network, security in # with
-
-
-## Contact me : 
-📫 [![Outlook Badge](https://img.shields.io/badge/-alperensah@outlook.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:alperensah@outlook.com)](alperensah@outlook.com)
-
-
-
-------
-Credit: [Alperen Sah](https://github.com/Alperen-cpu)
-
-Last Edited on: 24/01/2022
-
+</html>
