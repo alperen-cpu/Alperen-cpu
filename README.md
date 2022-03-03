@@ -1,6 +1,6 @@
 <p align="center">
 
-    <img src="hhttps://miro.medium.com/max/724/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" alt="Coder GIF" width="300" height="200">
+    <img src="hhttps://miro.medium.com/max/724/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="300" height="200">
 
 </p>
 
