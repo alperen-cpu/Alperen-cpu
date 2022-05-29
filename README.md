@@ -30,5 +30,6 @@
 <br />
 <p>Thanks for following me!</p>
 <a href="https://www.linkedin.com/in/alperen-sah"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-        alt="linkedin" width="25""></a><a href="https://www.linkedin.com/in/alperen-sah"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"
-            alt="linkedin" width="25""></a>
+        alt="linkedin" width="25""></a><a href=" https://www.linkedin.com/in/alperen-sah"><img
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"
+        alt="linkedin" width="25""></a>
