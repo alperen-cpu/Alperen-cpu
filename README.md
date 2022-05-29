@@ -20,9 +20,6 @@
         alt="docker, container"></a>
 <a href="https://linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
         alt="Linux, ubuntu, centos, debian, kali, mint" width="40" height="40"></a>
-<a href="https://www.docker.com/"><img
-        src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"
-        alt="docker, container"></a>
 <a href="https://aws.amazon.com/"><img
         src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
         width="40" height="40" alt="Amazon Web Services"></a>
