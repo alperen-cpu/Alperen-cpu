@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3></a><a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> 
 <a href="https://linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux, ubuntu, centos, debian, kali, mint" width="40" height="40"></a>
-<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker, container"></a><a href="https://www.mysql.com/">
+<a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker, container"></a>
 <a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="Amazon Web Services"></a>
 
 <hr />
