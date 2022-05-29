@@ -1,4 +1,3 @@
-<img src="https://miro.medium.com/max/724/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif" width="300" height="200" alt="">
 
 
 # Hi guys 👋 I'm Alperen Şah Aburşum
