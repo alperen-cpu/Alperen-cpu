@@ -14,11 +14,9 @@
 
 <h3 align="left">Languages and Tools:</h3></a><a href="https://git-scm.com/" target="_blank"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> 
-<br />
-
-<a href="https://linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux, ubuntu, centos, debian, kali, mint" width="40" height="40"></a> <a href="https://ubuntu.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" width="40" height="40" alt="ubuntu"></a>
+<a href="https://linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux, ubuntu, centos, debian, kali, mint" width="40" height="40"></a>
 <a href="https://www.docker.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40" alt="docker, container"></a><a href="https://www.mysql.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="mysql"></a>
-<a href="https://www.ssh.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="40" height="40" alt="ssh"></a><a href="https://www.apache.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" width="40" height="40" alt="apache"></a>
+<a href="https://www.ssh.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg" width="40" height="40" alt="ssh"></a>
 <a href="https://aws.amazon.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" alt="Amazon Web Services"></a>
 
 <hr />
