@@ -12,6 +12,8 @@
 
 <h3 align="left">Languages and Tools:</h3></a><a href="https://git-scm.com/" target="_blank"> <img
         src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"> <img
+            src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="git" width="40" height="40" /></a>
 <a href="https://www.docker.com/"><img
         src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"
         alt="docker, container"></a>
@@ -30,7 +32,6 @@
 <br />
 <p>Thanks for following me!</p>
 <a href="https://www.linkedin.com/in/alperen-sah"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-        alt="linkedin" width="25""></a>
-<a href=" https://twitter.com/sh_alperen"><img
+        alt="linkedin" width="25""></a><a href=" https://twitter.com/sh_alperen"><img
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"
         alt="twitter" width="25"></a>
