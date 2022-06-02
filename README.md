@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning DevOps and DevSecOps
 - 👯 open source contributor
 - 📫 How to reach me: bilgi@alperensah.ml
 - ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
