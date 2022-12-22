@@ -1,35 +1,23 @@
-# Hi guys 👋 I'm Alperen Şah Aburşum
+<h1> Hey 👋, I'm Alperen Sah!</h1>
+
+I'm a Linux System Engineer <img src="https://github.com/1enesplus/1enesplus/blob/main/devops.png" alt="devops" width=480 height=auto align="right">
 
 
+### 🛠  What am I use?
 
-
-
-- 🌱 I’m currently learning Linux System
-- 👯 open source contributor
-- 📫 How to reach me: bilgi@alperensah.com
-- ⚡ Fun fact: I spend almost 5-6 hours Learning everyday
-
-
-<h3 align="left">Languages and Tools:</h3></a><a href="https://git-scm.com/" target="_blank"> <img
-        src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img
-        src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="git" width="40"
-        height="40" /></a>
-<a href="https://www.docker.com/"><img
-        src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="40" height="40"
-        alt="docker, container"></a>
-<a href="https://linux.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"
-        alt="Linux, ubuntu, centos, debian, kali, mint" width="40" height="40"></a>
-<a href="https://aws.amazon.com/"><img
-        src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg"
-        width="40" height="40" alt="Amazon Web Services"></a>
-
-<hr />
-
-<h2>Social Media Account</h2>
-<br />
-<p>Thanks for following me!</p>
-<a href="https://www.linkedin.com/in/alperen-sah"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
-        alt="linkedin" width="25"></a><a href="https://twitter.com/sh_alperen">&nbsp;&nbsp;<img
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png"
-        alt="linkedin" width="25"></a>
+<li>OS > (Debian, Ubuntu, CentOS, AlmaLinux)</li>
+<li>Virtualization > (Docker, Vmware)</li>
+<li>Database > (Mysql, Mariadb, Mongo, Postgresql)</li>
+ <li>AWS > (EC2, S3)</li>
+ <li>Web Server > (Apache, Nginx, Litespeed)</li>
+ </ul>
+ 
+ 
+### Connect with me :smiley:
+<a href="https://www.linkedin.com/in/alperen-sah/">
+  <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+&nbsp;
+<a href="https://twitter.com/sh_alperen">
+  <img align="left" alt="Twitter" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bca38e0ff2e5e6f01cb8c4c8e0033cbab0f3d592/images/svg/twitter.svg" />
+</a>
