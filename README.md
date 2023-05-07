@@ -15,7 +15,7 @@ I'm a Linux System Engineer <img src="https://github.com/1enesplus/1enesplus/blo
 
 
 ### Connect with me :smiley:
-<a target="_blank" href="https://www.linkedin.com/in/alperen-sah/">
+<a href="https://www.linkedin.com/in/alperen-sah/" target="_blank">
     <img align="left" alt="Linkdin" width="21px"
         src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>&nbsp;<a target="_blank" href="https://twitter.com/sh_alperen">
