@@ -15,12 +15,12 @@ I'm a Linux System Engineer <img src="https://github.com/1enesplus/1enesplus/blo
 
 
 ### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/alperen-sah/">
+<a target="_blank" href="https://www.linkedin.com/in/alperen-sah/">
     <img align="left" alt="Linkdin" width="21px"
         src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>&nbsp;<a href="https://twitter.com/sh_alperen">
+</a>&nbsp;<a target="_blank" href="https://twitter.com/sh_alperen">
     <img align="left" alt="Twitter" width="21px"
         src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bca38e0ff2e5e6f01cb8c4c8e0033cbab0f3d592/images/svg/twitter.svg" />
-</a>&nbsp;<a href="https://medium.com/@alperensah">
+</a>&nbsp;<a target="_blank" href="https://medium.com/@alperensah">
     <img align="left" alt="Medium" width="21px"
         src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bca38e0ff2e5e6f01cb8c4c8e0033cbab0f3d592/images/svg/medium.svg" /></a>
