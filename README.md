@@ -1,6 +1,6 @@
 <h1> Hey 👋, I'm Alperen Sah!</h1>
 
-I'm a Linux System Engineer <img src="https://github.com/1enesplus/1enesplus/blob/main/devops.png" alt="devops"
+I'm a Linux System Engineer <img src="https://www.qrpinternational.fr/wp-content/uploads/sites/6/2022/05/DevOps-cest-quoi-definition.jpg" alt="devops"
     width=480 height=auto align="right">
 
 
