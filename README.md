@@ -6,7 +6,7 @@ I'm a Linux System Engineer
 <li>OS > (Debian, Ubuntu, CentOS, AlmaLinux)</li>
 <li>Virtualization > (Docker, Vmware)</li>
 <li>Database > (Mysql, Mariadb, Mongo, Postgresql)</li>
-<li>AWS > (EC2, S3, Route 53, Lightsail)</li>
+<li>AWS > (EC2, S3, Route 53, Lightsail, IAM)</li>
 <li>IBM > (S3)</li>
 <li>Web Server > (Apache, Nginx, Litespeed)</li>
 </ul>
