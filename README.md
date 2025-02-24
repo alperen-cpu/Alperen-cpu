@@ -1,6 +1,6 @@
 # Hey, I'm Alperen Sah! 👋
 
-I'm a Linux System Engineer with a passion for open source and cloud technologies.
+I'm a System Engineer with a passion for open source and cloud technologies.
 
 ## What I Use 🛠
 - **Operating Systems:** Debian, Ubuntu, CentOS, AlmaLinux
